@@ -1,0 +1,4 @@
+10000,Jenny,Kim,jennyk@gmail.com,0412345678,12,Day St,Sydney,NSW
+10001,Jake,Smith,jakesmith@gmail.com,0411111111,15,Queen St,Sydney,NSW
+10002,Chris,Jones,chrisjn@gmail.com,0422222222,18,Cha St,Sydney,NSW
+10003,Jennifer,Smith,jensmith@gmail.com,0455555555,14,Tea St,Sydney,NSW

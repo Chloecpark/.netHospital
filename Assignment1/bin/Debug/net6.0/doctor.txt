@@ -1,0 +1,3 @@
+20000,Felix,Lee,felixlee@gmail.com,0412312312,20,Pitt St,Sydney,NSW
+20001,Rachel,Green,rachgreen@gmail.com,0434567801,17,King St,Sydney,NSW
+20002,Ross,Geller,Rossgell@gmail.com,0419191919,14,Water St,Sydney,NSW
